@@ -9,3 +9,4 @@ window.addEventListener('scroll',()=>{
         nav1.classList.remove('scroll-down')
     }
 })
+
